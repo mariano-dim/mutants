@@ -1,0 +1,42 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/.quality/
+/bin/
+
+data/
+mongo_realdata/
+mongo-rc/
+mongo-rs/
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.checkstyle
+.eclipse-pmd
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+# SoapUI backup directory
+.tmp/
+
